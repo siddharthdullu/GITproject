@@ -9,8 +9,13 @@ Change 3:- for the bug2
 
 Change 4:- for stash test for wi5 in progress......
 
-Change 5: For WI6 on local master to test normal push
+Change 5:- For WI6 on local master to test normal push
 
-Change 6: by teammate on remote master for bug3.
+Change 6:- by teammate on remote master for bug3.
 
+Change 7:- For WI6 on local master to test normal push
+
+Change 8:- on local master for WI7.
+
+>>>>>>> 6926371 (wi7 file1: updated for hyphen added and new line added on local master)
 
