@@ -9,3 +9,5 @@ Change:- for the bug2
 
 Change :- for stash test for wi5 in progress......
 
+Change : For WI6 on local master to test normal push
+
